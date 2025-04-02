@@ -51,3 +51,5 @@ while True:
 # stop capturing
 cv2.destroyAllWindows()
 vs.stop()
+
+## Just adding a Comment for Practice
