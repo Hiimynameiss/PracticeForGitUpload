@@ -53,3 +53,5 @@ cv2.destroyAllWindows()
 vs.stop()
 
 ## Just adding a Comment for Practice
+
+## Comment for a Practice: git Clone
