@@ -55,3 +55,6 @@ vs.stop()
 ## Just adding a Comment for Practice
 
 ## Comment for a Practice: git Clone
+
+### Practicing GitHub and VSCode
+# 메모리에 일시적으로 저장되어 있는 상태(Commit & Push 필요)
